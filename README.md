@@ -24,6 +24,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 7 月 15 号添加
+
+#### Sallyn - [Github](https://github.com/Sallyn0225)
+* :white_check_mark: [SeatView](https://seat.genchi.top)：日本及部分海外演唱会场馆的真实座位视角图集，在坐席图上点击标注即可查看该位置的实拍视野，浏览和上传均无需注册 - [查看仓库](https://github.com/Sallyn0225/seatview)
+
 ### 2026 年 7 月 14 号添加
 
 #### Tristan Tang - [Github](https://github.com/tristan666666)
