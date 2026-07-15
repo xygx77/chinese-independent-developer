@@ -29,6 +29,11 @@
 #### Orkas - [Github](https://github.com/Orkas-AI/Orkas)
 * :white_check_mark: [Orkas](https://orkas.ai?source=github)：开源、本地优先的 AI 团队桌面 App，通过对话下达目标，由指挥官协调专业 Agent 完成调研、文档、数据分析、编程和视频等复杂任务；支持官方模型，也可接入自己的模型
 
+#### Indie Fox - [Github](https://github.com/open-fox), [Blog](https://mkdollar.com)
+* :white_check_mark: [TanStarter](https://tanstarter.dev)：基于 TanStack Start 框架和 Cloudflare 基建的 AI SaaS 模板
+* :white_check_mark: [MkSaaS](https://mksaas.com)：基于 Next.js 框架和各种前沿技术栈，一个周末就能快速上站的 AI SaaS 模板
+* :white_check_mark: [MkImage](https://mkimage.ai)：内置 1000+ 优质提示词，支持 GPT Image 和 NanoBanana 等模型的 AI 生图工具站
+
 #### mnbqwe10(Singapore) - [Github](https://github.com/mnbqwe10)
 * :white_check_mark: [AI Buddy](https://chromewebstore.google.com/detail/eigpaeoigklelmfgnkljhbjjbpohenpn)：Chrome 侧边栏 AI 助手,选中文本或截图直接提问,自定义快捷键和提示词,支持 ChatGPT/Claude/Telegram 等 10 个平台,完全免费开源 - [查看仓库](https://github.com/mnbqwe10/ai_buddy)
 
