@@ -33,12 +33,12 @@
 * :white_check_mark: [oh-my-ppt](https://www.ohmyppt.cc/)：描述你的需求（演示、课程或故事），AI 为你生成简洁美观的 HTML 幻灯片，本地优先、离线可用 - [查看仓库](https://github.com/arcsin1/oh-my-ppt)
 
 #### XuZeyu(武汉) - [Github](https://github.com/xuzeyu91)
-* :white_check_mark: [BigBanana-AI-Director](https://github.com/shuyu-labs/BigBanana-AI-Director)：BigBanana AI Director是一个工业级一站式 AI 短剧，AI 漫剧,AI 导演平台，面向创作者，实现从灵感到成片的高效生产。 它摇弃了传统的“抽卡式”生成，采用 "Script-to-Asset-to-Keyframe" 的工业化工作流。实现 “一句话生成完整短剧，从剧本到成片全自动化”，同时精准控制角色一致性、场景连续性与镜头运动。
-* :white_check_mark: [AntSK](https://github.com/shuyu-labs/AntSK)：一个基于.Net 9、AntBlazor、Semantic Kernel和Kernel Memory构建的AI知识库/代理，支持本地离线AI大模型运行。无需联网即可离线运行。支持Aspire用于监控应用数据。
-* :white_check_mark: [WebCode](https://github.com/shuyu-labs/WebCode)：WebCode是一款基于浏览器的人工智能编程平台，支持远程运行Claude Code和Codex等CLI助手。只需一个网页浏览器，即可随时随地编写代码。我们还新增了办公助理模式，用于规划、调研/总结、会议记录及文档/邮件草稿撰写——并可与项目上下文联动。
+* :white_check_mark: [BigBanana-AI-Director](https://github.com/shuyu-labs/BigBanana-AI-Director)：AI 短剧 / AI 漫剧 / AI 导演平台，工业级一站式生产工具，面向创作者；采用 Script-to-Asset-to-Keyframe 工业化工作流替代传统“抽卡式”生成，一句话生成完整短剧、从剧本到成片全自动化，同时精准控制角色一致性、场景连续性与镜头运动
+* :white_check_mark: [AntSK](https://github.com/shuyu-labs/AntSK)：AI 知识库 / 智能体，基于 .NET 9、AntBlazor、Semantic Kernel 和 Kernel Memory 构建，支持本地离线运行 AI 大模型、无需联网，并可用 Aspire 监控应用数据
+* :white_check_mark: [WebCode](https://github.com/shuyu-labs/WebCode)：AI 编程平台，基于浏览器运行，支持远程运行 Claude Code 和 Codex 等 CLI 助手，打开浏览器即可随时随地编写代码；新增办公助理模式，支持规划、调研 / 总结、会议记录及文档 / 邮件草稿撰写，并可联动项目上下文
 
 #### VinsonGuo(成都) - [Github](https://github.com/VinsonGuo), [Blog](https://vinsonguo.github.io/)
-* :white_check_mark: [SmartRSS](https://vinsonguo.github.io/introducing-smartrss)：全平台RSS阅读器，无缝集成FreshRSS等服务。强大的AI自定义指令帮你高效处理信息，一站式内容订阅（Blog/Podcast/YouTube/Reddit等），以及卓越阅读体验。
+* :white_check_mark: [SmartRSS](https://vinsonguo.github.io/introducing-smartrss)：全平台 RSS 阅读器，无缝集成 FreshRSS 等服务，AI 自定义指令帮你高效处理信息，一站式内容订阅（Blog / Podcast / YouTube / Reddit 等），阅读体验出色
 
 #### Ivy(上海) - [Github](https://github.com/Goodfun-Studio), [工作室官网](https://goodfun.studio)
 * :white_check_mark: [记账tracker](https://claw.investtracker.ai)：投资记账与持仓复盘工具，分开呈现持仓浮盈亏和已实现盈亏，支持组合视图、微信小程序、开源本地桌面版及只读 MCP 分析
