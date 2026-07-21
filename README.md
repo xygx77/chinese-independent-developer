@@ -25,6 +25,9 @@
 ## 3. 项目列表
 ### 2026 年 7 月 21 号添加
 
+#### Tim - [Github](https://github.com/Timwood0x10)
+* :white_check_mark: [CodeScope](https://github.com/Timwood0x10/CodeScope):CodeScope 是一个高性能代码图引擎 + MCP 协议工具链，专为 AI Agent 设计，让 AI 不再“幻觉理解代码”，而是真正能验证代码是否符合声明。
+
 #### MarthaHuang(北京) - [Github](https://github.com/Amybiubiu)
 * :white_check_mark: [芦苇-发现好内容](https://apps.apple.com/cn/app/%E8%8A%A6%E8%8B%87-%E5%8F%91%E7%8E%B0%E5%A5%BD%E5%86%85%E5%AE%B9/id6756805406)：探索优质信息源，连接 RSS 订阅与内容发现 - [更多介绍](https://reeddaily.com/)
 
