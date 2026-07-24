@@ -29,6 +29,9 @@
 #### KKWANG4444 - [GitHub](https://github.com/KKWANG4444)
 * :white_check_mark: [AI快站模型质量检测](https://docs.aifast.club/model-check/)：面向 OpenAI Compatible 接口的网页检测工具，输入公开 HTTPS 地址和临时 API Key，可检查模型声明、Token、动态题、SSE 与工具调用并生成分项报告；密钥仅用于当次检测，不写入数据库、缓存或日志
 
+#### ky3 - [Github](https://github.com/ky3-studio)
+* :white_check_mark: [ky3 Launcher](https://github.com/ky3-studio/ky3-Launcher)：原神第三方开源启动器，集游戏启动、抽卡记录分析、成就管理、养成规划于一体，WinUI 3 原生界面，免费无广告
+
 ### 2026 年 7 月 23 号添加
 
 #### maowei8888 - [Github](https://github.com/maowei8888)
